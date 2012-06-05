@@ -1,4 +1,1 @@
-sprayplay
-=========
-
-Corona game
+Visit the [SprayPlay website](http://bcjordan.github.com/sprayplay/) for more information on this game.
