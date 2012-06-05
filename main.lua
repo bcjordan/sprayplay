@@ -11,9 +11,7 @@ display.setStatusBar( display.HiddenStatusBar )
 local storyboard = require "storyboard"
 
 local drumHandle = audio.loadStream("drumbeat.wav")
-audio.play(drumHandle, { channel=1, loops=-1, fadein=10000 })
-
-
+audio.play(drumHandle, { channel=1, loops=-1, fadein=1000 })
 
 -- load menu screen
 storyboard.gotoScene( "menu" )
